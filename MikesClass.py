@@ -7,6 +7,9 @@ class MikesClass:
 
 def main():
     print("Hello World!")
+    mc = MikesClass()
+    mc.SayHi()
+    mc.SayBye()
 
 if __name__ == "__main__":
     main()
