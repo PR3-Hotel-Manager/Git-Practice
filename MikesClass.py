@@ -1,7 +1,9 @@
 class MikesClass:
     def SayHi():
-        print("hello")
+        print("hello from mike's class")
 
+    def SayBye():
+        print("Bye from mike's class!")
 
 def main():
     print("Hello World!")
