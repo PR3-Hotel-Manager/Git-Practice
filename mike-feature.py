@@ -1,9 +1,10 @@
-# Mike feature
+class MikesClass:
+    def SayHi():
+        print("hello")
 
-Use this project to experiment with git and github.
 
-mike's new feature
+def main():
+    print("Hello World!")
 
-func(string str) {
-    print('Hey')
-}
+if __name__ == "__main__":
+    main()
